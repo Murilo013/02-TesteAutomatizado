@@ -274,7 +274,7 @@ test.describe('Cadastro de Alunos', () => {                               // [2]
 
 ### 4.1 Sobre o Site
 
-Para esta atividade, utilizaremos o **QS Acadêmico**, um sistema web em português desenvolvido especificamente para a prática de testes automatizados. O site está disponível neste repositório na pasta `docs/` e será publicado via **GitHub Pages**.
+Para esta atividade, utilizaremos o **QS Acadêmico**, um sistema web desenvolvido especificamente para a prática de testes automatizados. O site está disponível neste repositório na pasta `docs/` e será publicado via **GitHub Pages**.
 
 O sistema simula um **gerenciador de notas acadêmicas** onde é possível cadastrar alunos com suas notas, visualizar médias e situações, buscar por nome e remover registros.
 
@@ -612,7 +612,7 @@ Este é o momento central da atividade. Se os testes foram escritos corretamente
 | **Resultado obtido** | (o que realmente acontece) |
 | **Evidência** | Screenshot do teste falhando ou do Trace Viewer |
 
-6. **Corrigir o defeito:** Edite o arquivo `docs/js/app.js`, corrija a função com o defeito e salve.
+6. **Corrigir o defeito:** Edite o arquivo `docs/js/app.js` (diretamente no github ou se fizer localmente não esqueça de commit/push), corrija a função com o defeito e salve.
 
 7. **Reexecutar os testes:** Execute a suíte novamente e confirme que **todos os testes passam** após a correção.
 
